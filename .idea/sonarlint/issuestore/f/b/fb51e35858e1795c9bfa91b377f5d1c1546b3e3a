@@ -1,0 +1,9 @@
+
+d
+java:S2184!"BCast one of the operands of this division operation to a "double".(¼è øÿÿÿÿ8¿ë×åİ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÃÆì8¿ë×åİ1
+]
+java:S3518!";Make sure "sayac" can't be zero before doing this division.(¼è øÿÿÿÿ8Èë×åİ1
+G	java:S106	"+Replace this use of System.out by a logger.(•€í¡8Ëë×åİ1
+X	java:S125"<This block of commented-out lines of code should be removed.(šÜ×©8Ëë×åİ1
+G	java:S106""+Replace this use of System.out by a logger.(Å‡ıì8Ûë×åİ1

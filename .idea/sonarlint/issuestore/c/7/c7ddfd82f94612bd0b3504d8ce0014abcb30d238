@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΆαΊβ
+F
+java:S1481"*Remove this unused "sifre" local variable.(δΎώ8µ»δέ1
+G	java:S106"+Replace this use of System.out by a logger.(ÿξήΑ8·»δέ1
+F	java:S106"+Replace this use of System.out by a logger.(ƒ‡D8·»δέ1
+L	java:S106"+Replace this use of System.out by a logger.(±ψΈκύÿÿÿÿ8·»δέ1
+L	java:S106"+Replace this use of System.out by a logger.(ΚΡκ­ύÿÿÿÿ8·»δέ1
+G	java:S106"+Replace this use of System.out by a logger.(Ò―­Ϊ8Ή»δέ1
+G	java:S106!"+Replace this use of System.out by a logger.(λύ­ª8Ή»δέ1
+G	java:S106#"+Replace this use of System.out by a logger.(αªώ8Ή»δέ1
+G	java:S106&"+Replace this use of System.out by a logger.(‚ν‚„8Ή»δέ1
+L	java:S106)"+Replace this use of System.out by a logger.(ίΨΛνÿÿÿÿÿ8Ή»δέ1

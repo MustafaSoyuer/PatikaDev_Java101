@@ -1,0 +1,13 @@
+
+`
+java:S1192?"JDefine a constant instead of duplicating this literal " Notu\t: " 3 times.(üª•·
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¿›™ûÿÿÿÿ
+v
+java:S1845,"[Rename method "gecmeDurumu" to prevent any misunderstanding/clash with field "gecmeDurumu".(â°™¾øÿÿÿÿ
+@	java:S106."+Replace this use of System.out by a logger.(Ğ—Íè
+E	java:S1062"+Replace this use of System.out by a logger.(ˆÏÁÍûÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(Õûİéÿÿÿÿÿ
+@	java:S106?"+Replace this use of System.out by a logger.(üª•·
+E	java:S106@"+Replace this use of System.out by a logger.(ÄÒÔÿÿÿÿÿ
+@	java:S106A"+Replace this use of System.out by a logger.(ïôáÒ
+E	java:S106B"+Replace this use of System.out by a logger.(°İ–ÿÿÿÿÿ

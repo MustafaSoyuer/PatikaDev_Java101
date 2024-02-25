@@ -1,0 +1,15 @@
+
+g
+java:S1192?"JDefine a constant instead of duplicating this literal " Notu\t: " 3 times.(όª•·8ί½κέ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤”‚ύÿÿÿÿ8ί½κέ1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(πηΓωÿÿÿÿ
+w	java:S116"[Rename this field "ogrenciNumarasΔ±" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦λϋχ8 ί½κέ1
+}
+java:S1845,"[Rename method "gecmeDurumu" to prevent any misunderstanding/clash with field "gecmeDurumu".(β°™Ύψÿÿÿÿ8΅ί½κέ1
+G	java:S106."+Replace this use of System.out by a logger.(Π—Νθ8¤ί½κέ1
+L	java:S1062"+Replace this use of System.out by a logger.(ΟΑΝϋÿÿÿÿ8¤ί½κέ1
+L	java:S1067"+Replace this use of System.out by a logger.(Υϋέιÿÿÿÿÿ8¤ί½κέ1
+G	java:S106?"+Replace this use of System.out by a logger.(όª•·8¥ί½κέ1
+L	java:S106@"+Replace this use of System.out by a logger.(ΔÒΤÿÿÿÿÿ8¥ί½κέ1
+G	java:S106A"+Replace this use of System.out by a logger.(οταÒ8¥ί½κέ1
+L	java:S106B"+Replace this use of System.out by a logger.(°έ–ÿÿÿÿÿ8¥ί½κέ1

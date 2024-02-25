@@ -1,0 +1,40 @@
+
+x
+java:S1192
+"[Define a constant instead of duplicating this literal "Birinci sayÄ±yÄ± giriniz: " 5 times.(ûŞ°¬8±ŠŞéİ1
+}
+java:S1192"[Define a constant instead of duplicating this literal "Ä°kinci sayÄ±yÄ± giriniz: " 5 times.(Í‹ô®øÿÿÿÿ8±ŠŞéİ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€ó—¦
+Y
+java:S35184"7Make sure "b" can't be zero before doing this division.(¬ş€ªÿÿÿÿÿ8”ùŞéİ1
+G	java:S106
+"+Replace this use of System.out by a logger.(ûŞ°¬8¶ŠŞéİ1
+L	java:S106"+Replace this use of System.out by a logger.(Í‹ô®øÿÿÿÿ8¶ŠŞéİ1
+L	java:S106"+Replace this use of System.out by a logger.(“Ò²¡úÿÿÿÿ8¶ŠŞéİ1
+G	java:S106"+Replace this use of System.out by a logger.(ûŞ°¬8·ŠŞéİ1
+L	java:S106"+Replace this use of System.out by a logger.(Í‹ô®øÿÿÿÿ8·ŠŞéİ1
+G	java:S106"+Replace this use of System.out by a logger.(İı÷‘8·ŠŞéİ1
+G	java:S106 "+Replace this use of System.out by a logger.(ûŞ°¬8·ŠŞéİ1
+L	java:S106""+Replace this use of System.out by a logger.(Í‹ô®øÿÿÿÿ8¸ŠŞéİ1
+F	java:S106%"+Replace this use of System.out by a logger.(‹ı¾8¸ŠŞéİ1
+G	java:S106+"+Replace this use of System.out by a logger.(ûŞ°¬8¸ŠŞéİ1
+L	java:S106-"+Replace this use of System.out by a logger.(Í‹ô®øÿÿÿÿ8¸ŠŞéİ1
+G	java:S1062"+Replace this use of System.out by a logger.(şà8¸ŠŞéİ1
+L	java:S1065"+Replace this use of System.out by a logger.(“Ò²¡úÿÿÿÿ8¸ŠŞéİ1
+F	java:S106;"+Replace this use of System.out by a logger.(âÀC8¹ŠŞéİ1
+G	java:S106="+Replace this use of System.out by a logger.(ˆ»’Š8¹ŠŞéİ1
+L	java:S106E"+Replace this use of System.out by a logger.(´¶¸†üÿÿÿÿ8ºŠŞéİ1
+F	java:S106K"+Replace this use of System.out by a logger.(åÄ†(8ºŠŞéİ1
+L	java:S106R"+Replace this use of System.out by a logger.(¨Ò •øÿÿÿÿ8ºŠŞéİ1
+G	java:S106X"+Replace this use of System.out by a logger.(ûŞ°¬8»ŠŞéİ1
+L	java:S106Z"+Replace this use of System.out by a logger.(Í‹ô®øÿÿÿÿ8»ŠŞéİ1
+L	java:S106]"+Replace this use of System.out by a logger.(´é·—ûÿÿÿÿ8»ŠŞéİ1
+o	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÂÂ×ùÿÿÿÿ8¼ŠŞéİ1
+L	java:S106c"+Replace this use of System.out by a logger.(‘ñèƒşÿÿÿÿ8¼ŠŞéİ1
+L	java:S106e"+Replace this use of System.out by a logger.(Ú¹­ıÿÿÿÿ8½ŠŞéİ1
+G	java:S106i"+Replace this use of System.out by a logger.(íƒ×Ä8½ŠŞéİ1
+T
+java:S6126|"2Replace this String concatenation with Text block.(¬ºù²üÿÿÿÿ8½ŠŞéİ1
+M	java:S106†"+Replace this use of System.out by a logger.(©Ñÿ¶ùÿÿÿÿ8½ŠŞéİ1
+M	java:S106Š"+Replace this use of System.out by a logger.(İå§Åıÿÿÿÿ8¾ŠŞéİ1
+H	java:S106ª"+Replace this use of System.out by a logger.(ÃñË™8¾ŠŞéİ1

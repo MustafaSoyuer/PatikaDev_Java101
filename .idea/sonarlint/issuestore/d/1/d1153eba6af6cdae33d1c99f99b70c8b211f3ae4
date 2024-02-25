@@ -1,0 +1,18 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í«¿ê
+C
+java:S1659"&Declare "userName" on a separate line.(ÖÃƒë8ãßûæİ1
+L	java:S106"+Replace this use of System.out by a logger.(ãêÿ‡ûÿÿÿÿ8äßûæİ1
+G	java:S106"+Replace this use of System.out by a logger.(ï›û8äßûæİ1
+F	java:S106"+Replace this use of System.out by a logger.(Õ¿˜+8äßûæİ1
+G	java:S106"+Replace this use of System.out by a logger.(”ê¤Í8äßûæİ1
+O
+java:S6126"2Replace this String concatenation with Text block.(”ê¤Í8äßûæİ1
+G	java:S106"+Replace this use of System.out by a logger.(Ó«ãÉ8åßûæİ1
+F	java:S106"+Replace this use of System.out by a logger.(ˆñ¦8åßûæİ1
+L	java:S106""+Replace this use of System.out by a logger.(–ÙÍ¡úÿÿÿÿ8åßûæİ1
+G	java:S106'"+Replace this use of System.out by a logger.(ÒÄ“8åßûæİ1
+G	java:S106)"+Replace this use of System.out by a logger.(Ê±ÈÎ8åßûæİ1
+G	java:S106/"+Replace this use of System.out by a logger.(ğ¯ß›8åßûæİ1
+L	java:S1064"+Replace this use of System.out by a logger.(ØÚâ¤ûÿÿÿÿ8æßûæİ1
+G	java:S106>"+Replace this use of System.out by a logger.(Íğ®à8æßûæİ1

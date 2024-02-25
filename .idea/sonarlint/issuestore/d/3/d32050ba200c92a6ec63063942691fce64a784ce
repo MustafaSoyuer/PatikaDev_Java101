@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ΩΟƒϊψÿÿÿÿ
+_
+java:S1659"BDeclare "topla" and all following declarations on a separate line.(¦σΞΖ8θ°Ώιέ1
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(λε»©ύÿÿÿÿ8θ°Ώιέ1
+F	java:S106"+Replace this use of System.out by a logger.(³Ξ£:8ι°Ώιέ1
+G	java:S106"+Replace this use of System.out by a logger.(ΟοΖ8λ°Ώιέ1
+L	java:S106"+Replace this use of System.out by a logger.(“Ι”όÿÿÿÿÿ8λ°Ώιέ1

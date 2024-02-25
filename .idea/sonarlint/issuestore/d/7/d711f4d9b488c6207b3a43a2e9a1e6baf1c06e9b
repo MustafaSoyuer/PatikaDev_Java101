@@ -1,0 +1,13 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…θφ«ψÿÿÿÿ
+X
+java:S3518,";Make sure "sayac" can't be zero before doing this division.(μ―Ρ8μΒ§δέ1
+_
+java:S1659"BDeclare "fizik" and all following declarations on a separate line.(·ΛΗÒ8ώ§δέ1
+G	java:S106"+Replace this use of System.out by a logger.(ª“Ο§8ÿ§δέ1
+L	java:S106"+Replace this use of System.out by a logger.(·ΰχδώÿÿÿÿ8ÿ§δέ1
+G	java:S106"+Replace this use of System.out by a logger.(λπ‘8ÿ§δέ1
+G	java:S106"+Replace this use of System.out by a logger.(ΚΓχ‹8ÿ§δέ1
+G	java:S106"+Replace this use of System.out by a logger.(¶ςβª8ÿ§δέ1
+G	java:S106-"+Replace this use of System.out by a logger.(¤ζΫ8€›§δέ1
+F	java:S1060"+Replace this use of System.out by a logger.(’έέ;8€›§δέ1

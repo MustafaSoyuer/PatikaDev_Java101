@@ -1,0 +1,20 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(€Ž·Œüÿÿÿÿ8á“ƒçÝ1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(àªÅö8â“ƒçÝ1
+Z
+java:S1854
+"=Remove this useless assignment to local variable "!unknown!".(Ðæêý8â“ƒçÝ1
+_
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(ù ƒ‘üÿÿÿÿ8â“ƒçÝ1
+Z
+java:S1854"=Remove this useless assignment to local variable "!unknown!".(­â¥©8â“ƒçÝ1
+H
+java:S1172"+Remove this unused method parameter "args".(Çµí‘8ã“ƒçÝ1
+G	java:S106	"+Replace this use of System.out by a logger.(Û£‹®8ä“ƒçÝ1
+G	java:S106"+Replace this use of System.out by a logger.(×•œ²8ä“ƒçÝ1
+L	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ýÿÿÿÿ8å“ƒçÝ1
+L	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8å“ƒçÝ1
+G	java:S106"+Replace this use of System.out by a logger.(×•œ²8å“ƒçÝ1
+L	java:S106!"+Replace this use of System.out by a logger.(‹µ‹¶ýÿÿÿÿ8å“ƒçÝ1
+L	java:S106#"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ8å“ƒçÝ1

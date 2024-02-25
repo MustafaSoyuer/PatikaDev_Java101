@@ -1,0 +1,9 @@
+
+9
+java:S1643"Use a StringBuilder instead.(®¥¹ƒ8Ã¿ªìİ1
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(½ÍØ…8×¿ªìİ1
+G	java:S106-"+Replace this use of System.out by a logger.(ÄãŒË8Ø¿ªìİ1
+L	java:S106."+Replace this use of System.out by a logger.(˜òëÄøÿÿÿÿ8Ø¿ªìİ1
+L	java:S106/"+Replace this use of System.out by a logger.(›šÀ©úÿÿÿÿ8Ø¿ªìİ1
+L	java:S1060"+Replace this use of System.out by a logger.(¶ÅÔÙüÿÿÿÿ8Ø¿ªìİ1

@@ -1,0 +1,9 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ª¹ù8Š®¶ãİ1
+d
+java:S1659"BDeclare "cevre" and all following declarations on a separate line.(×çÔøıÿÿÿÿ8®¶ãİ1
+L	java:S106"+Replace this use of System.out by a logger.(ì¶¾¼úÿÿÿÿ8®¶ãİ1
+G	java:S106"+Replace this use of System.out by a logger.(ŸˆŞ‡8‘®¶ãİ1
+L	java:S106"+Replace this use of System.out by a logger.(»£¹ùÿÿÿÿ8‘®¶ãİ1
+L	java:S106"+Replace this use of System.out by a logger.(ºêÑÙùÿÿÿÿ8‘®¶ãİ1
+G	java:S106"+Replace this use of System.out by a logger.(ÙæÌ8‘®¶ãİ1

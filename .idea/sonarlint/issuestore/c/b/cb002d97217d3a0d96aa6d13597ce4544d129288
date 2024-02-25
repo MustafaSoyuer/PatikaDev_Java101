@@ -1,0 +1,20 @@
+
+u	java:S135l"YReduce the total number of break and continue statements in this loop to use at most one.(¬ÄÕ8šÎ½ìİ1
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ çt
+s	java:S116	"RRename this field "MineMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ª‘Úúÿÿÿÿ8óÎ½ìİ1
+s	java:S116
+"RRename this field "GameMap" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÎÑë¡ùÿÿÿÿ8óÎ½ìİ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑÑ¯»şÿÿÿÿ8õÎ½ìİ1
+:
+java:S2119%"Save and re-use this "Random".(¼İÅf8€¿ìİ1
+X	java:S1251"<This block of commented-out lines of code should be removed.(ºß§©8÷Î½ìİ1
+L	java:S106A"+Replace this use of System.out by a logger.(íüª‰ÿÿÿÿÿ8øÎ½ìİ1
+L	java:S106C"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8øÎ½ìİ1
+L	java:S106W"+Replace this use of System.out by a logger.(íüª‰ÿÿÿÿÿ8ùÎ½ìİ1
+L	java:S106Y"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ùÎ½ìİ1
+j	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–Äñ8ùÎ½ìİ1
+L	java:S106m"+Replace this use of System.out by a logger.(Ú¼µüÿÿÿÿ8úÎ½ìİ1
+L	java:S106o"+Replace this use of System.out by a logger.(ŒßŠàøÿÿÿÿ8úÎ½ìİ1
+G	java:S106v"+Replace this use of System.out by a logger.(ı©§ò8úÎ½ìİ1
+G	java:S106z"+Replace this use of System.out by a logger.(Æğí†8úÎ½ìİ1
+L	java:S106"+Replace this use of System.out by a logger.(àë¸¯ıÿÿÿÿ8úÎ½ìİ1
