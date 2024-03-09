@@ -121,8 +121,6 @@ k
 0src/main/java/com/mustafa/MayinTarlasi/Main.java,f\4\f4abc01d822bcd8f2e272ecd9fbf5e97a5c5dcde
 g
 7src/main/java/com/mustafa/MayinTarlasi/MineSweeper.java,c\b\cb002d97217d3a0d96aa6d13597ce4544d129288
-G
-SelectionSortProjesi.md,3\0\30ca315c033f93d0959fbdbd49b41e44ed9b6509
 `
 0VeriTabaniveAlgoritmalar/SelectionSortProjesi.md,2\b\2b6eb64e6ce491c48df316b1cfaef9e798ec9662
 \
