@@ -1,20 +1,8 @@
 
 <
 build.gradle,f\0\f07866736216be0ee2aba49e392191aeae700a35
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
-S
-#src/main/java/com/mustafa/Main.java,6\6\66e239a771d06d9e4ed36b46a2e7fe4c8702011a
-r
-Bsrc/main/java/com/mustafa/NotOrtalamasiHesaplayanProgram/Main.java,7\a\7a918e85ca8b00df88e5427500eeb2def47c1d88
-a
-1src/main/java/com/mustafa/NotOrtalamasi/Main.java,1\6\16b29fc7306b73aa36c8510dd7f8a4e515d02fab
-]
--src/main/java/com/mustafa/KdvTutari/Main.java,6\4\648ef07187947284b1bd2a4cfc569d60b4595e67
 |
 Lsrc/main/java/com/mustafa/Temel_Kavramlar_ve_Degiskenler/KdvTutari/Main.java,1\0\1084ad8ac13f5a38bcf2d19a4407dd747ac9a05a
-Š
-Zsrc/main/java/com/mustafa/Temel_Kavramlar_ve_Degiskenler/KdvTutari/NotOrtalamasi/Main.java,a\0\a0ce5c0f8ef582957b21be4bc8c0361b544b2147
 €
 Psrc/main/java/com/mustafa/Temel_Kavramlar_ve_Degiskenler/NotOrtalamasi/Main.java,c\5\c5d0eae0b196cdb99e77e2fd71a1328f87037540
 †
@@ -33,8 +21,6 @@ Rsrc/main/java/com/mustafa/Kosullu_Ifadeler_ve_Kod_Bloklari/HesapMakinesi/Main.j
 Tsrc/main/java/com/mustafa/Kosullu_Ifadeler_ve_Kod_Bloklari/KullaniciGirisi/Main.java,c\7\c7ddfd82f94612bd0b3504d8ce0014abcb30d238
 †
 Vsrc/main/java/com/mustafa/Kosullu_Ifadeler_ve_Kod_Bloklari/SinifiGecmeDurumu/Main.java,d\7\d711f4d9b488c6207b3a43a2e9a1e6baf1c06e9b
-~
-Nsrc/main/java/com/mustafa/Kosullu_Ifadeler_ve_Kod_Bloklari/EtkinlikOnerme.java,9\9\9999bf9d73394fdd6d210b3733bb97305324d5c3
 ƒ
 Ssrc/main/java/com/mustafa/Kosullu_Ifadeler_ve_Kod_Bloklari/EtkinlikOnerme/Main.java,c\0\c057d37962dc873a9f21d8f1ef7a499c2e59f192
 ‹
@@ -47,12 +33,6 @@ Nsrc/main/java/com/mustafa/Kosullu_Ifadeler_ve_Kod_Bloklari/BurcBulma/Main.java
 Osrc/main/java/com/mustafa/Kosullu_Ifadeler_ve_Kod_Bloklari/CinZodyagi/Main.java,b\1\b1610c108952539735cfd87bb791f16268902f31
 }
 Msrc/main/java/com/mustafa/Kosullu_Ifadeler_ve_Kod_Bloklari/ArtikYil/Main.java,3\a\3a97d957f159ee52b6243667d09ed5ff099ca20b
-|
-Lsrc/main/java/com/mustafa/DÃ¶ngÃ¼ler/GirilenSayiyaKadarOlanÃ‡iftSayilar.java,2\b\2b0c1bc5146ff9cd4927ec0955f49a2f46a9cd57
-
-Qsrc/main/java/com/mustafa/DÃ¶ngÃ¼ler/GirilenSayiyaKadarOlanÃ‡iftSayilar/Main.java,b\6\b6d202391a9fc2f6035fa876ffa7ab70b7d45b10
-
-Osrc/main/java/com/mustafa/Donguler/GirilenSayiyaKadarOlanÃ‡iftSayilar/Main.java,f\b\fb51e35858e1795c9bfa91b377f5d1c1546b3e3a
 ~
 Nsrc/main/java/com/mustafa/Donguler/GirilenSayiyaKadarOlanCiftSayilar/Main.java,5\9\596a519416920dfaf990707aa29659a4435f6dbf
 p
@@ -67,8 +47,6 @@ j
 :src/main/java/com/mustafa/Donguler/ArmstrongSayi/Main.java,5\9\59e65c2dfb4c292d725172893c6a40f48cafc098
 i
 9src/main/java/com/mustafa/Donguler/HarmonikSayi/Main.java,a\a\aa680f59e0775b02865dd921162ba44450330b01
-e
-5src/main/java/com/mustafa/Donguler/YildizlaUcgen.java,4\3\4384ee3cf29489aa3ea1fa6b4585bc31596a663d
 `
 0src/main/java/com/mustafa/Donguler/ATM/Main.java,d\1\d1153eba6af6cdae33d1c99f99b70c8b211f3ae4
 j
@@ -93,8 +71,6 @@ r
 Bsrc/main/java/com/mustafa/Metotlar/RecursiveileFibonacci/Main.java,4\5\45aaf79293508c2262643f1204729fdebea19b24
 r
 Bsrc/main/java/com/mustafa/Metotlar/GelismisHesapMakinesi/Main.java,e\2\e21906ef662e25dd6cee013677189b9e75471b6f
-m
-=src/main/java/com/mustafa/Metotlar/RecursiveileUsluSayÄ±.java,2\8\28319897807fce98ca7e4845dbc28c3def7fdcc5
 q
 Asrc/main/java/com/mustafa/Metotlar/RecursiveileUsluSayi/Main.java,a\e\ae72a8c11615cf6425888f066ad91cb9d39f681b
 q
@@ -127,8 +103,6 @@ q
 Asrc/main/java/com/mustafa/Diziler/ElemanlarinOrtalamasi/Main.java,6\6\663b634f52e2ef2b255ac2ef22a0dbad83d617e6
 d
 4src/main/java/com/mustafa/Diziler/MaxveMin/Main.java,a\2\a24748c518ff72b36d74d6c57073db0527e69ff8
-]
--src/main/java/com/mustafa/Diziler/AHarfi.java,4\7\475036faf879f3993852de9f15b0cbf112d2580d
 b
 2src/main/java/com/mustafa/Diziler/AHarfi/Main.java,1\1\11b14cb86d7ee2a1b72b61ce6273cf79be519214
 j
@@ -147,3 +121,7 @@ k
 0src/main/java/com/mustafa/MayinTarlasi/Main.java,f\4\f4abc01d822bcd8f2e272ecd9fbf5e97a5c5dcde
 g
 7src/main/java/com/mustafa/MayinTarlasi/MineSweeper.java,c\b\cb002d97217d3a0d96aa6d13597ce4544d129288
+G
+SelectionSortProjesi.md,3\0\30ca315c033f93d0959fbdbd49b41e44ed9b6509
+`
+0VeriTabaniveAlgoritmalar/SelectionSortProjesi.md,2\b\2b6eb64e6ce491c48df316b1cfaef9e798ec9662
