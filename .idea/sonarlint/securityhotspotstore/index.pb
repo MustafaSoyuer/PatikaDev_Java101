@@ -127,3 +127,5 @@ G
 0VeriTabaniveAlgoritmalar/SelectionSortProjesi.md,2\b\2b6eb64e6ce491c48df316b1cfaef9e798ec9662
 \
 ,VeriTabaniveAlgoritmalar/MergeSortProjesi.md,2\d\2dcbf134e1427c92fa772e5bf655d6a59ca52426
+c
+3VeriTabaniveAlgoritmalar/BinarySerachTreeProjesi.md,3\8\38555e877d6ac13a88b76a6047223f9620f0a382
