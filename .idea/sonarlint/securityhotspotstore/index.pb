@@ -125,3 +125,5 @@ G
 SelectionSortProjesi.md,3\0\30ca315c033f93d0959fbdbd49b41e44ed9b6509
 `
 0VeriTabaniveAlgoritmalar/SelectionSortProjesi.md,2\b\2b6eb64e6ce491c48df316b1cfaef9e798ec9662
+\
+,VeriTabaniveAlgoritmalar/MergeSortProjesi.md,2\d\2dcbf134e1427c92fa772e5bf655d6a59ca52426
